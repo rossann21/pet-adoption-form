@@ -1,0 +1,69 @@
+{
+  "applications": [
+    {
+      "id": 1788876289408,
+      "fullName": "Sydney Lastimosa",
+      "age": "19",
+      "contactNumber": "123456789012",
+      "address": "143 I love you street",
+      "pet": "Dog",
+      "reason": "gjugvjuhyguigiu"
+    }
+  ],
+  "pets": [
+    {
+      "name": "Max",
+      "type": "Dog",
+      "age": "2 years old",
+      "breed": "Golden Retriever",
+      "gender": "Male",
+      "status": "Available",
+      "description": "Friendly, playful, and loves people."
+    },
+    {
+      "name": "Buddy",
+      "type": "Dog",
+      "age": "1 year old",
+      "breed": "Labrador",
+      "gender": "Male",
+      "status": "Available",
+      "description": "Active and loves playing outside."
+    },
+    {
+      "name": "Mimi",
+      "type": "Cat",
+      "age": "2 years old",
+      "breed": "Persian",
+      "gender": "Female",
+      "status": "Available",
+      "description": "Quiet, gentle, and friendly."
+    },
+    {
+      "name": "Luna",
+      "type": "Cat",
+      "age": "1 year old",
+      "breed": "Domestic Shorthair",
+      "gender": "Female",
+      "status": "Available",
+      "description": "Playful and likes being around people."
+    },
+    {
+      "name": "Aliyah",
+      "type": "Dog",
+      "age": "2 years old",
+      "breed": "Shi Tzu",
+      "gender": "Female",
+      "status": "Available",
+      "description": "Playful, likes to play around."
+    },
+    {
+      "name": "Steve",
+      "type": "Dog",
+      "age": "1 year old",
+      "breed": "Golden Labrador",
+      "gender": "Male",
+      "status": "Available",
+      "description": "Always smiling and love to pat his head."
+    }
+  ]
+}
