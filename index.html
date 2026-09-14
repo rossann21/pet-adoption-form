@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <title>Adoption Form ni Lastimosa</title>
+</head>
+
+<body>
+
+    <h1>Pet Adoption Form</h1>
+
+    <form class="pet-container" action="/submit" method="POST">
+
+        <div class="pet-card">
+
+            <label>Full Name:</label><br>
+            <input type="text" name="fullName" required>
+            <br><br>
+
+            <label>Age:</label><br>
+            <input type="number" name="age" required>
+            <br><br>
+
+            <label>Contact Number:</label><br>
+            <input type="text" name="contactNumber" required>
+            <br><br>
+
+            <label>Address:</label><br>
+            <textarea name="address" rows="3" required></textarea>
+            <br><br>
+
+            <label>Choose a Pet:</label><br>
+            <select name="pet" class="button" required>
+                <option value="Dog">Dog</option>
+                <option value="Cat">Cat</option>
+            </select>
+
+            <br><br>
+
+            <label>Why do you want to adopt? Explain in 100 words:</label><br>
+            <textarea name="reason" rows="5" cols="30" required></textarea>
+
+            <br><br>
+
+            <button type="submit">
+                Submit Application
+            </button>
+
+        </div>
+
+    </form>
+
+</body>
+</html>
